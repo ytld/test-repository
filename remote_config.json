@@ -1,0 +1,13 @@
+{
+    "BuildVersion": "__BuildVersion__",
+    "BaseUris": [
+        "__MobileAPIBaseURL__"
+    ],
+    "EnvironmentList": [
+        {
+            "id": 10,
+            "text": "Nemo - Production",
+            "url": "__APIBaseURL__"
+        }
+    ]
+}
